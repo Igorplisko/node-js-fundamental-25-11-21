@@ -1,0 +1,25 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Node JS fundamental practice - \"Node JS fundamental'nyy praktika ot A do YA\"",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igorplisko/node-js-fundamental-25-11-21.git"
+  },
+  "author": "Igor Plisko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igorplisko/node-js-fundamental-25-11-21/issues"
+  },
+  "homepage": "https://github.com/Igorplisko/node-js-fundamental-25-11-21#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
